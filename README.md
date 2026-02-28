@@ -1,5 +1,7 @@
+Machine Learning Task 1 (2026) - Future Interns
 # Sales & Demand Forecasting - FUTURE_ML_01
 
+Machine Learning Task 1 (2026) - Future Interns
 ## Objective
 To forecast future retail sales using historical transaction data to support business decision-making.
 
